@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output artifacts
+output.txt
+output_copy.txt
+
+# IDE
+.idea/
+.vscode/
