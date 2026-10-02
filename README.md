@@ -1,18 +1,6 @@
 # frontend-lab
 
-本仓库是前端学习项目的**聚合仓**：用 **Git 子模块** 引用 [`wxz6289`](https://github.com/wxz6289) 下各独立仓库，父仓只保存**子模块 commit 指针**，日常开发在各自子仓库中进行。
-
----
-
-## 1. 与本地 `learn` 目录的关系
-
-| 说明 | 路径或习惯 |
-|------|------------|
-| 聚合仓（本仓库） | `~/frontend-lab` |
-| 你本地长期改代码的目录 | 多在 `~/learn/…` |
-| 远程组织 | 子模块统一为 `git@github.com:wxz6289/<仓库>.git` |
-
-子模块在磁盘上的**目录名**与 GitHub **仓库名**通常一致；少数历史仓库可能不同，下表「远程」一列为真实仓库名。
+本仓库是前端学习项目的**聚合仓**：用 **Git 子模块** 引用 [`wxz6289`](https://github.com/wxz6289) 下各独立仓库，父仓只保存**子模块 commit 指针**，日常维护在各自子仓库中进行。
 
 ---
 
@@ -24,7 +12,7 @@
 |----------|----------|------|
 | `html-css/` | [wxz6289/html-css](https://github.com/wxz6289/html-css) | HTML / CSS |
 | `js/` | [wxz6289/js](https://github.com/wxz6289/js) | JavaScript |
-| `typescript/` | [wxz6289/learn-typescript](https://github.com/wxz6289/learn-typescript) | TypeScript |
+| `typescript/` | [wxz6289/learn-typescript](https://github.com/wxz6289/TypeScript) | TypeScript |
 
 ### 2.2 框架与 SSR
 
@@ -80,7 +68,7 @@ npm install
 npm run dev
 ```
 
-浏览器打开 http://localhost:7100（主应用 `7100`，React `7101`，Vue `7102`）。详见子仓 [qiankun/README.md](qiankun/README.md)。
+浏览器打开 <http://localhost:7100>（主应用 `7100`，React `7101`，Vue `7102`）。详见子仓 [qiankun/README.md](qiankun/README.md)。
 
 ---
 
@@ -131,4 +119,4 @@ git push origin main
 
 ## 5. 相关链接
 
-- 父聚合仓：[wxz6289/frontend-lab](https://github.com/wxz6289/frontend-lab)
+- 聚合仓：[wxz6289/frontend-lab](https://github.com/wxz6289/frontend-lab)
