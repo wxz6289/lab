@@ -22,9 +22,6 @@
 [submodule "nuxt"]
 	path = nuxt
 	url = git@github.com:wxz6289/nuxtjs.git
-[submodule "webpack"]
-	path = webpack
-	url = git@github.com:wxz6289/webpack.git
 [submodule "vite"]
 	path = vite
 	url = git@github.com:wxz6289/vite.git
@@ -37,15 +34,9 @@
 [submodule "rxjs"]
 	path = rxjs
 	url = git@github.com:wxz6289/rxjs.git
-[submodule "uniapp"]
-	path = uniapp
-	url = git@github.com:wxz6289/uni-app.git
 [submodule "flutter"]
 	path = flutter
 	url = git@github.com:wxz6289/flutter.git
-[submodule "admin"]
-	path = admin
-	url = git@github.com:wxz6289/admin.git
 [submodule "qiankun"]
 	path = qiankun
 	url = git@github.com:wxz6289/qiankun.git
