@@ -42,16 +42,16 @@
 	url = git@github.com:wxz6289/qiankun.git
 [submodule "coding-spec"]
 	path = coding-spec
-	url = git@github.com:DreamerKing/coding-spec.git
+	url = git@github.com:wxz6289/coding-spec.git
 [submodule "da"]
 	path = da
-	url = git@github.com:DreamerKing/da.git
+	url = git@github.com:wxz6289/da.git
 [submodule "deno"]
 	path = deno
 	url = git@github.com:wxz6289/deno.git
 [submodule "fp"]
 	path = fp
-	url = git@github.com:DreamerKing/fp.git
+	url = git@github.com:wxz6289/fp.git
 [submodule "threejs"]
 	path = threejs
 	url = git@github.com:wxz6289/threejs.git
