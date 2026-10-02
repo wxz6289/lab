@@ -1,5 +1,5 @@
 [submodule "frontend-interview"]
-	path = frontend-interview
+	path = interview
 	url = git@github.com:wxz6289/frontend-interview.git
 [submodule "html-css"]
 	path = html-css
