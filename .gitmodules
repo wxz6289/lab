@@ -40,3 +40,30 @@
 [submodule "qiankun"]
 	path = qiankun
 	url = git@github.com:wxz6289/qiankun.git
+[submodule "coding-spec"]
+	path = coding-spec
+	url = git@github.com:DreamerKing/coding-spec.git
+[submodule "da"]
+	path = da
+	url = git@github.com:DreamerKing/da.git
+[submodule "deno"]
+	path = deno
+	url = git@github.com:wxz6289/deno.git
+[submodule "fp"]
+	path = fp
+	url = git@github.com:DreamerKing/fp.git
+[submodule "threejs"]
+	path = threejs
+	url = git@github.com:wxz6289/threejs.git
+[submodule "native"]
+	path = native
+	url = git@github.com:wxz6289/native.git
+[submodule "tanstack"]
+	path = tanstack
+	url = git@github.com:wxz6289/tanstack.git
+[submodule "infinite-canvas-tutorial"]
+	path = infinite-canvas-tutorial
+	url = git@github.com:xiaoiver/infinite-canvas-tutorial.git
+[submodule "tauri2"]
+	path = tauri2
+	url = git@github.com:wxz6289/tauri.git
